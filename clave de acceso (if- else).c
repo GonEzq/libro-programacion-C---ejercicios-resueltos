@@ -1,3 +1,14 @@
+/*Simulación de clave
+de acceso, solicitar
+al operador clave de
+acceso, si es
+correcto, imprimir
+por pantalla “Acceso
+permitido”.
+Si es incorrecto
+imprimir “Acceso
+denegado”.*/
+
 #include <stdio.h>
 
 int main ()
