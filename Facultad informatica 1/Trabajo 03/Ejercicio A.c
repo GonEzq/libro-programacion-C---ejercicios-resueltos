@@ -3,6 +3,7 @@ sistemas de numeración:
 1) Decimal a Hexadecimal.
 2) Hexadecimal a Decimal.
 3) Binario a Decimal y Hexadecimal.*/
+/* agrege yo el octal*/
 
 #include <stdio.h>
 #include <math.h>
